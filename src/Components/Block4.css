@@ -1,0 +1,10 @@
+.card {
+   width: 350px;
+   height: 350px;
+}
+
+.card ul{
+    font-size: 20px;
+    color: white;
+    padding-top: 50px;
+}
